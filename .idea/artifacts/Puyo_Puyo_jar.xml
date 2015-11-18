@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Puyo_Puyo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Puyo_Puyo_jar</output-path>
+    <root id="archive" name="Puyo_Puyo.jar">
+      <element id="module-output" name="Puyo_Puyo" />
+    </root>
+  </artifact>
+</component>
